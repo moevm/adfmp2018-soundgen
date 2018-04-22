@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Noize</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="items">
+        <item>forest</item>
+        <item>sea</item>
+        <item>river</item>
+        <item>fire</item>
+        <item>vilage</item>
+        </string-array>
+</resources>
